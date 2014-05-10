@@ -22,7 +22,7 @@ o.importConfig({
 					"execute": addOneStep
 				},
 				{
-					"execute": "function (o, chain, value) {value = parseInt(value, 10) + 1; return chain.next(o, chain, value);}"
+					"execute": "function (o, chain, value) {value = parseInt(value, 10) + 1; chain.next(o, chain, value);}"
 				},
 				{
 					"execute": "actions/log"
