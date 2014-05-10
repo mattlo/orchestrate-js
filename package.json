@@ -1,0 +1,22 @@
+{
+  "name": "orchestrate-js",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattlo/orchestrate-js.git"
+  },
+  "keywords": [
+    "workflow",
+    "automation",
+    "api"
+  ],
+  "author": "Matt Lo",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/mattlo/orchestrate-js/issues"
+  },
+  "homepage": "https://github.com/mattlo/orchestrate-js",
+  "dependencies": {
+  }
+}
