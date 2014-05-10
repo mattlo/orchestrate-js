@@ -1,0 +1,16 @@
+{
+	"options": {
+		"startOnBranch": "helloWorld"
+	},
+	"branches": {
+		"helloWorld": {
+			"options": {},
+			"steps": [
+				{
+					"options": {},
+					"execute": "log"
+				}
+			]
+		}
+	}
+}
