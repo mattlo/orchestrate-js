@@ -4,7 +4,7 @@ var o = require('../lib/orchestrate.js');
 var addOneStep = function (o, chain, value) {	
 	value = parseInt(value, 10) + 1;
 	
-	return chain.next(o, chain, value);
+	chain.next(o, chain, value);
 };
 
 o.importConfig({
