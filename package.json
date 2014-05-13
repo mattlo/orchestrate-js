@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mattlo/orchestrate-js",
   "dependencies": {
-    "phantom": "~0.6.1"
+    "phantom": "~0.6.1",
+    "q": "~1.0.1"
   }
 }
