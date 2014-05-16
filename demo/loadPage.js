@@ -1,12 +1,5 @@
 var o = require('../lib/orchestrate.js');
 
-// made up step!
-var addOneStep = function (o, chain, value) {	
-	value = parseInt(value, 10) + 1;
-	
-	chain.next(o, chain, value);
-};
-
 o.importConfig({
 	"options": {
 		"startOnBranch": "helloWorld"
