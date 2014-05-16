@@ -1,9 +1,6 @@
 var o = require('../lib/orchestrate.js');
 
 o.importConfig({
-	"options": {
-		"startOnBranch": "helloWorld"
-	},
 	"branches": {
 		"helloWorld": {
 			"options": {},
