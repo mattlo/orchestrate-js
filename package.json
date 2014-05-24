@@ -1,6 +1,6 @@
 {
   "name": "orchestrate-js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "api"
   ],
   "author": "Matt Lo",
-  "license": "Apache2",
+  "license": "Apache 2",
   "bugs": {
     "url": "https://github.com/mattlo/orchestrate-js/issues"
   },
